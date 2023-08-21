@@ -1,1 +1,9 @@
-# friDay
+## FriDay 
+
+My Motto is to create a personal assistant to do our day to day life works like inform you about the weather and news and also entertain you through playing songs and it can open general web based applications like facebook, youtube and etc..
+
+It's purely written with Python Language I took use of some mudels for a listening ,recognise, speaking...
+
+There are many more things to work in it so I'm seeking for some contrutor to contribute there knowledge in it...
+
+Thats all....
